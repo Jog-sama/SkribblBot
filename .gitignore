@@ -3,9 +3,7 @@ __pycache__/
 .venv/
 venv/
 .env
-data_actual/raw/
-data_actual/processed/
-data_actual/outputs/
+data_actual/
 models/*.pkl
 notebooks/.ipynb_checkpoints/
 .DS_Store
