@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+data/raw/*.npy
+data/processed/
+data/outputs/
+models/*.pkl
+notebooks/.ipynb_checkpoints/
+.DS_Store
+*.egg-info/
