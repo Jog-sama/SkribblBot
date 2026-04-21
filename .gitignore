@@ -3,7 +3,7 @@ __pycache__/
 .venv/
 venv/
 .env
-data_actual/raw/*.npy
+data_actual/raw/
 data_actual/processed/
 data_actual/outputs/
 models/*.pkl
